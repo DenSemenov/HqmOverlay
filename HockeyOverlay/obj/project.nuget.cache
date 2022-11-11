@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "z5TzRXVMjPcKNXzDDTf3NwnxOFcv8hM61r6sHAmuJhrAcmuyVMAjvFqaPd8YrL4hw73Zb6UOb5HuEP3w0QK4OQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\HqmOverlay\\HockeyOverlay\\HockeyOverlay.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Denis\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
